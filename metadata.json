@@ -1,0 +1,8 @@
+{
+  "name": "etssiin zagvar - cameratai design",
+  "description": "A luxury 3D interactive greeting card controlled by hand gestures. Transforms a particle tree into a galaxy of memories.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
